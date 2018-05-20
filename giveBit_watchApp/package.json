@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "43058d2a-ec50-48b2-9efd-86dc2e45e0af",
+    "appType": "app",
+    "appDisplayName": "giveBit",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "giveBit"
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+<svg>
+  <image id="image" href="figs_screen01alt.jpg" load="sync" />
+  <text id="hrm-data" class="sensor-data" x="22%" y="90"></text>
+</svg>
